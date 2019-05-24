@@ -1,0 +1,16 @@
+/Users/michaelsundman/Code/HelloWorldServer/bin/Release/netcoreapp2.2/app.yaml
+/Users/michaelsundman/Code/HelloWorldServer/bin/Release/netcoreapp2.2/Dockerfile
+/Users/michaelsundman/Code/HelloWorldServer/bin/Release/netcoreapp2.2/HelloWorldServer.deps.json
+/Users/michaelsundman/Code/HelloWorldServer/bin/Release/netcoreapp2.2/HelloWorldServer.runtimeconfig.json
+/Users/michaelsundman/Code/HelloWorldServer/bin/Release/netcoreapp2.2/HelloWorldServer.runtimeconfig.dev.json
+/Users/michaelsundman/Code/HelloWorldServer/bin/Release/netcoreapp2.2/HelloWorldServer.dll
+/Users/michaelsundman/Code/HelloWorldServer/bin/Release/netcoreapp2.2/HelloWorldServer.pdb
+/Users/michaelsundman/Code/HelloWorldServer/obj/Release/netcoreapp2.2/HelloWorldServer.csprojAssemblyReference.cache
+/Users/michaelsundman/Code/HelloWorldServer/obj/Release/netcoreapp2.2/HelloWorldServer.csproj.CoreCompileInputs.cache
+/Users/michaelsundman/Code/HelloWorldServer/obj/Release/netcoreapp2.2/HelloWorldServer.RazorAssemblyInfo.cache
+/Users/michaelsundman/Code/HelloWorldServer/obj/Release/netcoreapp2.2/HelloWorldServer.RazorAssemblyInfo.cs
+/Users/michaelsundman/Code/HelloWorldServer/obj/Release/netcoreapp2.2/HelloWorldServer.AssemblyInfoInputs.cache
+/Users/michaelsundman/Code/HelloWorldServer/obj/Release/netcoreapp2.2/HelloWorldServer.AssemblyInfo.cs
+/Users/michaelsundman/Code/HelloWorldServer/obj/Release/netcoreapp2.2/HelloWorldServer.RazorTargetAssemblyInfo.cache
+/Users/michaelsundman/Code/HelloWorldServer/obj/Release/netcoreapp2.2/HelloWorldServer.dll
+/Users/michaelsundman/Code/HelloWorldServer/obj/Release/netcoreapp2.2/HelloWorldServer.pdb

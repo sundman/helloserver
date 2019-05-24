@@ -5,7 +5,7 @@ namespace HelloWorldServer
 {
     
 public class MyWeatherData {
-    public DateTime Updated {get;set;}
+   // public DateTime Updated {get;set;}
     //public string Test => "Cloud connect test";
     public List<MyWeather> WeatherData {get;set;}
 

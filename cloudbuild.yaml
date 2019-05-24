@@ -3,4 +3,4 @@ steps:
   args: [ 'publish', '-c', 'Release' ]
 
 - name: 'gcr.io/cloud-builders/gcloud'
-  args: ['app','deploy','/bin/Release/netcoreapp2.2/publish/app.yaml']
+  args: ['app','deploy','./bin/Release/netcoreapp2.2/publish/app.yaml']

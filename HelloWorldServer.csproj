@@ -10,7 +10,6 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
   
 <None Include="app.yaml" CopyToOutputDirectory="PreserveNewest" /> 
-<None Include="Dockerfile" CopyToOutputDirectory="PreserveNewest" /> 
   
   </ItemGroup>
 

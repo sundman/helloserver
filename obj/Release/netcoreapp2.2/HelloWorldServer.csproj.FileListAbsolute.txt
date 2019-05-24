@@ -1,5 +1,4 @@
 /Users/michaelsundman/Code/HelloWorldServer/bin/Release/netcoreapp2.2/app.yaml
-/Users/michaelsundman/Code/HelloWorldServer/bin/Release/netcoreapp2.2/Dockerfile
 /Users/michaelsundman/Code/HelloWorldServer/bin/Release/netcoreapp2.2/HelloWorldServer.deps.json
 /Users/michaelsundman/Code/HelloWorldServer/bin/Release/netcoreapp2.2/HelloWorldServer.runtimeconfig.json
 /Users/michaelsundman/Code/HelloWorldServer/bin/Release/netcoreapp2.2/HelloWorldServer.runtimeconfig.dev.json
